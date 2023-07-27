@@ -11,7 +11,7 @@ function App() {
       </div>
 
       <div className="header">
-        <h1>FLAMINGO</h1>
+        <h1>FLAMINGO ICE-CREAM</h1>
       </div>
 
       <div className="row">
